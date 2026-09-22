@@ -6,4 +6,8 @@ class Suma {
 	public static float suma(float a, float b){
 		return a+b;
 	}
+
+	public static double suma(double a, double b){
+		return a+b;
+	}
 }
